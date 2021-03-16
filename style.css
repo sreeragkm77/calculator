@@ -1,0 +1,41 @@
+.row{
+    background-color: blueviolet;
+    width: 350px;
+    height: 450px;
+    margin-left: 550px;
+    border-style: solid;
+    border-color:beige;
+    border-width: 1px;
+    border-radius: 8px;
+}
+.calc{
+    background-color: chartreuse;
+}
+.frst{
+    width: 50px;
+    height: 50px;
+}
+
+button{
+    margin-left: 25px;
+    margin-top: 2px;
+    border-radius: 8px;
+    border-style: hidden;
+background-color: chartreuse;
+
+}
+.disp{
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 40px;
+    width: 300px;
+    border-radius: 8px;
+    background-color: rgb(117, 226, 245);
+}
+.key{
+    margin-left: 7px;
+    margin-top:30px;
+}
+body{
+    background-color: chocolate;
+}
